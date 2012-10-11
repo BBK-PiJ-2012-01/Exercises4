@@ -48,3 +48,8 @@ class Point {
     }
 }
 
+Point a, b
+a = new Point(3,4)
+b = a.opposite()
+print "a has coords: "; a.print()
+print "b has coords: "; b.print()
