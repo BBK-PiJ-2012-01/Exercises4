@@ -20,8 +20,8 @@ void increment(Point point, int n) {
 }
 // Program execution starts here
 Point myPoint = new Point();
-point.x = 0;
-point.y = 0;
+myPoint.x = 0;
+myPoint.y = 0;
 int myInt = 0;
 println "The integer is now " + myInt;
 println "The point is now " + myPoint.x + "," + myPoint.y; 
